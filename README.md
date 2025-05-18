@@ -1,5 +1,5 @@
 <h1 align="center">Halo 👋, Saya Fiky Alrasya</h1>
-<<<<<<< HEAD
+
 <p align="center">Seorang pelajar yang memiliki ketertarikan dan semangat belajar tinggi dalam bidang pemrograman 🔥🔥</p>
 
 ---
