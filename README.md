@@ -1,20 +1,18 @@
-<h1 align="center">Halo 👋, Saya Fiky Alrasya</h1>
+<h1>💫 About Me :</h1>
 
-<p align="center">Seorang pelajar yang sedang mendalami bidang pemrograman web dengan semangat juang yang tinggi 🔥🔥</p>
 
 ---
+
+
+<p align="center">Halo Seorang pelajar yang sedang mendalami bidang pemrograman web dengan semangat juang yang tinggi 🔥🔥</p>
+
+
+---
+
 
 ## 🔗 Social media:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kyyntseph)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@razzkyy.98)
-
----
-
-## 🚀 Featured Projects
-
-### 📘 [Quatronime](https://quatronime.vercel.app/)
-Platform informasi anime dengan fitur admin dashboard.  
-**Tech Stack**: Next.js, Prisma, Supabase, Tailwind CSS.
 
 
 ---
