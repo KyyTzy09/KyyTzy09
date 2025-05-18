@@ -1,6 +1,6 @@
 <h1 align="center">Halo 👋, Saya Fiky Alrasya</h1>
 
-<p align="center">Seorang pelajar yang memiliki ketertarikan dan semangat belajar tinggi dalam bidang pemrograman 🔥🔥</p>
+<p align="center">Seorang pelajar yang sedang mendalami bidang pemrograman web dengan semangat juang yang tinggi 🔥🔥</p>
 
 ---
 
@@ -15,8 +15,7 @@
 ### 📘 [Quatronime](https://quatronime.vercel.app/)
 Platform informasi anime dengan fitur admin dashboard.  
 **Tech Stack**: Next.js, Prisma, Supabase, Tailwind CSS.
-=======
-<p align="center">Seorang pelajar yang sedang mendalami ilmu di bidang pemrograman dengan semangat yang tinggi 🔥🔥</p>
+
 
 ---
 
