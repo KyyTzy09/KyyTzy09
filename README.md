@@ -20,12 +20,6 @@ Platform informasi anime dengan fitur admin dashboard.
 
 ---
 
-## 🔗 Socials:
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kyyntseph)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@razzky.98)
->>>>>>> e2047778c0e8f6d8b56f8fe6d94184ab8655bb29
-
----
 
 ## 💻 Tech Stack:
 
