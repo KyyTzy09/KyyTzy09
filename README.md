@@ -1,7 +1,7 @@
-<h1>💫 About Me :</h1>
+<h1>💫Halo saya Fiky Alrasya </h1>
 
 
-Halo👋 saya Fiky Alrasya, Seorang pelajar yang sedang mendalami bidang pemrograman web dengan semangat juang yang tinggi 🔥🔥
+Seorang pelajar yang sedang mendalami bidang pemrograman web dengan semangat juang yang tinggi 🔥🔥
 
 ---
 
