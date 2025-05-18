@@ -17,7 +17,7 @@ Platform informasi anime dengan fitur admin dashboard.
 **Tech Stack**: Next.js, Prisma, Supabase, Tailwind CSS.
 
 
-===
+---
 
 
 ## 💻 Tech Stack:
@@ -38,7 +38,7 @@ Platform informasi anime dengan fitur admin dashboard.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-===
+---
 
 ## 📊 GitHub Stats:
 
