@@ -1,9 +1,10 @@
 <h1>💫 About Me :</h1>
 
+---
 
+Halo👋 saya Fiky Alrasya, Seorang pelajar yang sedang mendalami bidang pemrograman web dengan semangat juang yang tinggi 🔥🔥
 
-<p>Halo👋 saya Fiky Alrasya, Seorang pelajar yang sedang mendalami bidang pemrograman web dengan semangat juang yang tinggi 🔥🔥</p>
-
+---
 
 ## 🔗 Social media:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kyyntseph)
