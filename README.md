@@ -16,7 +16,7 @@
 Platform informasi anime dengan fitur admin dashboard.  
 **Tech Stack**: Next.js, Prisma, Supabase, Tailwind CSS.
 =======
-<p align="center">Seorang pelajar yang mmemiliki ketertarikan sekaligus semangat juang tinggi di bidang pemrograman 🔥🔥</p>
+<p align="center">Seorang pelajar yang sedang mendalami ilmu di bidang pemrograman dengan semangat yang tinggi 🔥🔥</p>
 
 ---
 
