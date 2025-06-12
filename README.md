@@ -1,7 +1,7 @@
-<h1>💫Halo saya Fiky Alrasya </h1>
+<h1>💫Tentang saya : </h1>
 
 
-Seorang pelajar yang sedang mendalami bidang pemrograman web dengan semangat juang yang tinggi 🔥🔥
+Haloo, saya Fiky Alrasya. Seorang pelajar yang masih terbilang fomo dengan bahasa pemrograman javascript🔥🔥
 
 ---
 
