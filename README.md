@@ -37,13 +37,13 @@ Haloo, saya Fiky Alrasya. Seorang pelajar yang masih terbilang fomo dengan bahas
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firegame224&show_icons=true&theme=dark&hide_border=true" width="400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KyyTzy09&show_icons=true&theme=dark&hide_border=true" width="400" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firegame224&theme=dark&hide_border=true" width="400" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyyTzy09&theme=dark&hide_border=true" width="400" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firegame224&layout=compact&theme=dark&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyyTzy09&layout=compact&theme=dark&hide_border=true" width="50%" />
 </p>
