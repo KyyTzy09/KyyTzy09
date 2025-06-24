@@ -5,7 +5,7 @@ Haloo, saya Fiky Alrasya. Seorang pelajar yang masih terbilang fomo dengan bahas
 
 ---
 <p align="center">
-  <img src="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/491723020_1235214471501354_4431859504111291848_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ROkGldhhyGIQ7kNvwGB0-fY&_nc_oc=AdnSBzvZsaMsEzg2A7n3RtJIbsEUlWNGxtAVN_hoPMR-yZ4ta8DE38gyqFoaz7lZ650&_nc_zt=23&_nc_ht=scontent.fjog3-1.fna&_nc_gid=kRYbx6cetQcHlhNs14CTMw&oh=00_AfNXwjjHjWJWKru37gq8ancSzchR6ARdWn0vhylc-2RCFw&oe=6860BB16" width="400" height="180" />
+  <img src="https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/491723020_1235214471501354_4431859504111291848_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ROkGldhhyGIQ7kNvwGB0-fY&_nc_oc=AdnSBzvZsaMsEzg2A7n3RtJIbsEUlWNGxtAVN_hoPMR-yZ4ta8DE38gyqFoaz7lZ650&_nc_zt=23&_nc_ht=scontent.fjog3-1.fna&_nc_gid=kRYbx6cetQcHlhNs14CTMw&oh=00_AfNXwjjHjWJWKru37gq8ancSzchR6ARdWn0vhylc-2RCFw&oe=6860BB16" />
 </p>
 
 
