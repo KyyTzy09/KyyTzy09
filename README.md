@@ -24,7 +24,7 @@ Haloo, saya Fiky Alrasya. Seorang pelajar yang masih terbilang fomo dengan bahas
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyyTzy09&theme=dark&hide_border=true" width="400" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=KyyTzy09&theme=dark&hide_border=true" width="400" height="180" />
 </p>
 
 <p align="center">
