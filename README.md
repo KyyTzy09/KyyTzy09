@@ -24,7 +24,7 @@ Haloo, saya Fiky Alrasya. Seorang pelajar yang masih terbilang fomo dengan bahas
 </p>
 
 <p align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=KyyTzy09&theme=dark&hide_border=false)<br/> 
+<img src="https://nirzak-streak-stats.vercel.app/?user=KyyTzy09&theme=dark&hide_border=false" /> 
 </p>
 
 <p align="center">
