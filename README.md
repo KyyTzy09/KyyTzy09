@@ -47,7 +47,7 @@
 ## 🔗 Connect with me
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kyyntseph)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@razzkyy.98)
-[![Email](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&logoColor=default)](mailto:xg474627@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&logoColor=default)](https://mail.google.com/mail/?view=cm&fs=1&to=xg474627@gmail.com)
 ---
 
 ## 📊 GitHub Stats
