@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9310EB&height=180&section=header"/>
 <h1 align="center">💫 About me</h1>
 
 <p align="center">
@@ -66,3 +67,5 @@
 </picture>
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9310EB&height=180&section=footer"/>
+<br clear="both">
