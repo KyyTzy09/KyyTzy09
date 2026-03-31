@@ -1,63 +1,57 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DCA9B9&height=250&section=header&text=Fiky%20Alrasya&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Just%20a%20student%20trying%20to%20be%20a%20little%20better%20than%20yesterday%20🚀&descAlignY=75&descSize=22" width="100%" />
+</div>
+
 <h1 align="center">💫 About me</h1>
 
 <p align="center">
-  <b>Hello, I am Fiky Alrasya.</b><br/>
-  <i>Just a student trying to be a little better than yesterday 🚀</i>
+  <b>Hello, I am Fiky Alrasya! 👋</b><br/>
+  I'm passionate about learning new technologies and building cool projects.<br/>
+  Always open to collaborate and learn from the community.
 </p>
 
----
+<br/>
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
-### 🔤 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nextjs,nestjs,express,react,svelte,vue,tailwind,nodejs,bun,prisma,mysql,supabase,vercel" alt="Tech Stack" />
+</div>
 
-### ⚡ Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-2D3748?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br/>
 
-### 🔧 Backend Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<h2 align="center">📊 GitHub Stats</h2>
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KyyTzy09&show_icons=true&title_color=DCA9B9&icon_color=DCA9B9&text_color=ffffff&bg_color=1c1a24&hide_border=true&border_radius=10&rank_icon=github" height="195em" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyyTzy09&theme=dark&hide_border=true&background=1c1a24&ring=DCA9B9&fire=DCA9B9&currStreakNum=ffffff&currStreakLabel=DCA9B9&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="195em" alt="GitHub Streak" />
+</div>
 
-### 🚀 Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<br/>
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyytzy09/kyytzy09/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyytzy09/kyytzy09/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kyytzy09/kyytzy09/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
-## 🔗 Connect with me
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kyyntseph)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@razzkyy.98)
+<br/>
 
----
+<h2 align="center">🔗 Connect with me</h2>
 
-## 📊 GitHub Stats
+<div align="center">
+  <a href="https://instagram.com/kyyntseph">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@razzkyy.98">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KyyTzy09&theme=radical&hide_border=false" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KyyTzy09&show_icons=true&theme=radical&hide_border=true" height="180em" />
-</p>
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyytzy09/kyytzy09/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyytzy09/kyytzy09/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kyytzy09/kyytzy09/output/pacman-contribution-graph.svg">
-</picture>
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DCA9B9&height=120&section=footer" width="100%" />
+</div>
