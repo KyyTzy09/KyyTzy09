@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,react,nextjs,nestjs,prisma&perline=7" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,react,vue,nextjs,nestjs,prisma&perline=7" alt="Tech Stack" />
   </a>
 </div>
 
