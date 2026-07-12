@@ -1,4 +1,10 @@
-<div align="center">
+<div
+align="center"
+>
+<img src="./images/stiker.jpg" weight="600" height="600"/>
+</div>
+
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C77CA0&height=250&section=header&text=Fiky%20Alrasya&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Just%20a%20student%20trying%20to%20be%20a%20little%20better%20than%20yesterday%20🚀&descAlignY=75&descSize=20" width="100%" />
 </div>
 
@@ -51,4 +57,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C77CA0&height=120&section=footer" width="100%" />
-</div>
+</div> -->
